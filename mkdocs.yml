@@ -1,0 +1,10 @@
+site_name: Memes
+site_author: Arthur Paiva
+
+theme:
+  name: material
+  leguege: pt 
+
+repo_name: memes/mkdocs-material 
+
+
